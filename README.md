@@ -9,12 +9,7 @@ A user-friendly WPF application for managing Windows Insider Program enrollment 
 
 ## Features
 * **Windows 11 Upgrade Bypass:**
-    * **Activate:** Implements a registry-based bypass to circumvent the TPM and CPU checks for in-place upgrades to Windows 11.
-    * **Deactivate:** Safely removes the bypass script and registry keys, restoring the system to its default state.
 * **Insider Program Enrollment:**
-    * **Enroll/Change Channel:** Join the Canary, Dev, Beta, or Release Preview channels with a single click.
-    * **Unenroll:** Stop receiving Insider Preview builds and clean up related registry configurations.
-    * **Status Check:** Displays your current enrollment status and channel.
 ---
 
 ## Getting Started
@@ -33,7 +28,6 @@ A user-friendly WPF application for managing Windows Insider Program enrollment 
     * **For the Upgrade Bypass:**
         * Click **Activate** to apply the bypass.
         * Click **Deactivate** to remove it.
-        * The status will update accordingly.
     * **For Insider Enrollment:**
         * Select your desired channel from the dropdown menu.
         * Click **Enroll in Selected Channel**.
