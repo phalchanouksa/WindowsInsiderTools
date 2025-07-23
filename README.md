@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./public/1.png" alt="Windows Insider Tool Screenshot" width="500">
+</p>
 # Windows Insider Tool
 
 A user-friendly WPF application for managing Windows Insider Program enrollment and bypassing Windows 11 upgrade requirements directly from your desktop.
