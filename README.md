@@ -25,7 +25,6 @@ A user-friendly WPF application for managing Windows Insider Program enrollment 
 ### How to Use
 
 1.  **Download:** Grab the latest release from the [Releases](https://github.com/phalchanouksa/WindowsInsiderTools/releases) page.
-    * **Note:** If you are unsure whether you have the .NET runtime installed, download the file ending in **`(packaged).zip`**. This version is larger but includes everything you need to run the application.
 2.  **Run as Administrator:** Right-click the `WindowInsiderTool.exe` and select "Run as administrator".
 3.  **Use the Interface:**
     * **For the Upgrade Bypass:**
